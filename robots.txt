@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sameentariq1995.github.io/sameentariq.github.io/sitemap.xml
