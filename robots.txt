@@ -1,4 +1,11 @@
 User-agent: *
-Allow: /
+Disallow: /blob/
+Disallow: /tree/
+Disallow: /commit/
+Disallow: /issues/
+Disallow: /pull/
+Disallow: /actions/
+Disallow: /wiki/
+Disallow: /security/
+Disallow: /settings/
 
-Sitemap: https://sameentariq1995.github.io/sameentariq.github.io/sitemap.xml
